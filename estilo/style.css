@@ -82,7 +82,7 @@ header > p {
     /*Criando combra*/
     text-shadow:2px 2px 0px black ;
     /*Margin de espaçamento abaixo*/
-    margin-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 header > h1 {
